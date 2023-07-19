@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/1b9b4969-67fb-43b1-a53f-b15980d951a2/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Predictram-test-backend",
+  "appService.deploySubpath": "."
+}
